@@ -1,0 +1,2 @@
+# TourArchitect
+ O projeto TourArchitect é um exemplo completo de como desenvolver uma aplicação robusta seguindo os princípios de S.O.L.I.D e Domain-Driven Design (DDD), utilizando context mapping para organizar a comunicação entre diferentes partes do sistema. A API REST e gRPC SOAP foram implementadas para fornecer funcionalidades CRUD, seguindo as melhores práticas de desenvolvimento de software.
